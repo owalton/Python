@@ -20,4 +20,3 @@ while i < 6:
 print "The number: "
 
 for num in numbers:
-	print num
